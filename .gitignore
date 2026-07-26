@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Training checkpoints
+outputs/
+
+# Generated evaluation files
+all_predictions.csv
+wrong_predictions.csv
+
+# Hugging Face cache
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
